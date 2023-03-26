@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-singhs/NAMASTE-REACT.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-singhs/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/shubham-singhs/NAMASTE-REACT#readme"
+}
